@@ -25,12 +25,18 @@ namespace osago_practica
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //afasf
+            this.Hide();
+            Owner_form adm = new Owner_form();
+            adm.ShowDialog();
+            this.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Car_form adm = new Car_form();
+            adm.ShowDialog();
+            this.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)

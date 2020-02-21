@@ -1,0 +1,9 @@
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\bin\Debug\osago_practica.exe.config
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\bin\Debug\osago_practica.exe
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\bin\Debug\osago_practica.pdb
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\obj\Debug\osago_practica.csprojAssemblyReference.cache
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\obj\Debug\osago_practica.Form1.resources
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\obj\Debug\osago_practica.Properties.Resources.resources
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\obj\Debug\osago_practica.csproj.GenerateResource.cache
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\obj\Debug\osago_practica.exe
+C:\Users\p3-16\source\repos\osago_practica\osago_practica\obj\Debug\osago_practica.pdb
