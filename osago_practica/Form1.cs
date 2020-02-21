@@ -21,6 +21,6 @@ namespace osago_practica
         {
             string a;
             a = this.Text;
-        } 
+        }  
     }
 }
