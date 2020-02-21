@@ -46,11 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entity_Owner_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entity_Owner_Form.Designer.cs">
+      <DependentUpon>Entity_Owner_Form.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Owner_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner_form.Designer.cs">
+      <DependentUpon>Owner_form.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
